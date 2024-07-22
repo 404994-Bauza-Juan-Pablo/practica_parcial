@@ -1,0 +1,6 @@
+@Recuperatorio_Bauza_404994_HostAddress = http://localhost:5223
+
+GET {{Recuperatorio_Bauza_404994_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
